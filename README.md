@@ -1,4 +1,4 @@
-# SCT_WD_3
+
 
 
 # Tic Tac Toe Game
@@ -92,4 +92,8 @@ function minimax(newBoard, player) {
 
     return moves[bestMove];
 }
+
+
+
+https://github.com/user-attachments/assets/0c98b0a7-38d9-4b07-a101-b854f1e61038
 
