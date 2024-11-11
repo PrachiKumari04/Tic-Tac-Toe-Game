@@ -1,6 +1,10 @@
 
 
 
+https://github.com/user-attachments/assets/01e8ee33-e95d-4fca-b1fd-1d8105dd4590
+
+
+
 # Tic Tac Toe Game
 
 A simple and user-friendly Tic Tac Toe game implemented in JavaScript, HTML, and CSS. The game features two modes: playing against a friend and playing against a smart computer opponent.
@@ -93,10 +97,9 @@ function minimax(newBoard, player) {
     return moves[bestMove];
 }
 
+![Capture](https://github.com/user-attachments/assets/78f2c997-f169-496b-a9fd-6783c2aa22cf)
 
 
-
-https://github.com/user-attachments/assets/abf7f8d0-8fcc-49bc-bf79-0267e816b828
 
 
 
