@@ -95,5 +95,8 @@ function minimax(newBoard, player) {
 
 
 
-https://github.com/user-attachments/assets/0c98b0a7-38d9-4b07-a101-b854f1e61038
+
+https://github.com/user-attachments/assets/abf7f8d0-8fcc-49bc-bf79-0267e816b828
+
+
 
