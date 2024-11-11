@@ -4,6 +4,7 @@
 https://github.com/user-attachments/assets/01e8ee33-e95d-4fca-b1fd-1d8105dd4590
 
 
+![Capture](https://github.com/user-attachments/assets/fbb7b56d-6961-4064-ac51-d25f78d27a9d)
 
 # Tic Tac Toe Game
 
@@ -97,7 +98,7 @@ function minimax(newBoard, player) {
     return moves[bestMove];
 }
 
-![Capture](https://github.com/user-attachments/assets/78f2c997-f169-496b-a9fd-6783c2aa22cf)
+
 
 
 
